@@ -1,4 +1,4 @@
-FROM logstash:latest
+FROM logstash:2
 MAINTAINER Arthur Pham <arthur.pham@gmail.com>
 LABEL Description=""
 
